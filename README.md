@@ -3,7 +3,7 @@
 Simulate your iOS location with GPS coordinates. 
 
 
-# Requirements
+## Requirements
 
  1. Download/Update **[Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)** from the Mac App Store
  2. Download [this](https://github.com/Lukejb14/GPS-Spoof/archive/master.zip) repository
