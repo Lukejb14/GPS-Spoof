@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <!--
+     Provide one or more waypoints containing a latitude/longitude pair. If you provide one
+     waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
+     Xcode will simulate a route visiting each waypoint.
+     <wpt lat="37.331705" lon="-122.030237">
+     <name>Cupertino</name>
+     
+     
+     Optionally provide a time element for each waypoint. Xcode will interpolate movement
+     at a rate of speed based on the time elapsed between each waypoint. If you do not provide
+     a time element, then Xcode will use a fixed rate of speed.
+     
+     Waypoints must be sorted by time in ascending order.
+     x
+     <time>2014-09-24T14:55:37Z</time>
+     </wpt>
+     -->
+    <!--
+    <wpt lat="-0.624143" lon="73.225252">
+        <name>Cupertino</name>
+     
+     
+         Optionally provide a time element for each waypoint. Xcode will interpolate movement
+         at a rate of speed based on the time elapsed between each waypoint. If you do not provide
+         a time element, then Xcode will use a fixed rate of speed.
+     
+         Waypoints must be sorted by time in ascending order.
+         x
+        <time>2014-09-24T14:55:37Z</time>
+    </wpt>
+     -->
+    
+    
+        <wpt lat="32.780795" lon="-117.188434">
+            <name>SAN</name>
+            <time>2014-09-24T17:00:17Z</time>
+        </wpt>
+<!--    <wpt lat="28.064963" lon="-80.623346">-->
+<!--        <name>MLB</name>-->
+<!--        <time>2014-09-24T17:00:17Z</time>-->
+<!--    </wpt>-->
+<!--    <wpt lat="49.607939" lon="6.143906">-->
+<!--        <name>london</name>-->
+<!--        <time>2014-09-24T17:00:27Z</time>-->
+<!--    </wpt>-->
+<!--    <wpt lat="25.195728" lon="55.274458">-->
+<!--        <name>dubai</name>-->
+<!--        <time>2014-09-24T17:00:37Z</time>-->
+<!--    </wpt>-->
+<!--    <wpt lat="-33.857435" lon="151.215091">-->
+<!--        <name>sydney</name>-->
+<!--        <time>2014-09-24T17:00:47Z</time>-->
+<!--    </wpt>-->
+<!--    <wpt lat="21.548133" lon="-157.978007">-->
+<!--        <name>sydney</name>-->
+<!--        <time>2014-09-24T17:00:57Z</time>-->
+<!--    </wpt>-->
+</gpx>
+
