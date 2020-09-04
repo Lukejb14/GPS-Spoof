@@ -15,7 +15,7 @@ Simulate your iOS location with GPS coordinates.
  4. Open **Location.gpx** in the Xcode project
  5. Edit **line 37** in Location.gpx to the GPS coordinates of your choice
 
-Example Line 37: `<wpt lat="25.197204"  lon="55.274283">`
+ Example Line 37: `<wpt lat="25.197204"  lon="55.274283">`
 
 
 ## Run GPS-Spoof
