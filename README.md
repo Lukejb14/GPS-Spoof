@@ -1,8 +1,7 @@
 # GPS Spoof
 
-Simulate your iOS location with GPS coordinates.
-
-![enter image description here](https://i.imgur.com/Z0b6Ydj.png)
+![enter image description here](https://i.imgur.com/OE6UJoD.png)
+Simulate your iOS location with any GPS coordinates. 
 
 ## Requirements
 
@@ -15,8 +14,7 @@ Simulate your iOS location with GPS coordinates.
  3. Open [GPS Spoof.xcodeproj](https://github.com/Lukejb14/GPS-Spoof/tree/master/GPS%20Spoof.xcodeproj "GPS Spoof.xcodeproj") with Xcode
  4. Open **Location.gpx** in the Xcode project
  5. Edit **line 37** in Location.gpx to the GPS coordinates of your choice
- 
- Example Line 37: `<wpt lat="25.197204"  lon="55.274283">`
+> Line 37: `<wpt lat="25.197204"  lon="55.274283">`
 
 
 ## Run GPS-Spoof
