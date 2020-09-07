@@ -16,7 +16,7 @@
 
 ## Run GPS-Spoof
 
-6. Select your device
+6. Plug in and Select your device
 7. Press '**Play**' button in top left. (Wait for 'Build Succeeded' to pop up)
 8. Select **Debug** > **Simulate Location** > **Location**
 9. Done! *Check if it worked by going to your maps application.*
